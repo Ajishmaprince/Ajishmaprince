@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ajishmasruthi&color=667eea&style=flat-square&label=Profile+Views)](https://github.com/ajishmasruthi)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ajishmaprince&color=667eea&style=flat-square&label=Profile+Views)](https://github.com/Ajishmaprince)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ajishma-sruthi-b83483338)
 
 </div>
@@ -39,8 +39,8 @@ I'm a motivated **college student** with a strong interest in **software develop
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajishmasruthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajishmasruthi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajishmaprince&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajishmaprince&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" />
 
 </div>
 

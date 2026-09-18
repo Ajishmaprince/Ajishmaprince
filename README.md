@@ -39,11 +39,8 @@ I'm a motivated **college student** with a strong interest in **software develop
 
 <div align="center">
 
-<!-- Overall Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajishmaprince&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajishmaprince&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajishmaprince&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajishmaprince&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" />
 
 </div>
 
